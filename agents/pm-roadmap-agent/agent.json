@@ -1,0 +1,17 @@
+{
+  "name": "PM Roadmap Agent",
+  "version": "1.0.0",
+  "author": "Seu Nome",
+  "description": "Structures and prioritizes product roadmaps combining Now/Next/Later, Opportunity Roadmap (Teresa Torres), JTBD Roadmap, and OKR-driven prioritization. Generates a justified roadmap with stakeholder narrative ready for presentation.",
+  "tags": ["roadmap", "prioritization", "now-next-later", "okr", "jtbd", "teresa-torres", "opportunity-roadmap", "product-management"],
+  "framework": "Now/Next/Later + Opportunity Roadmap (Teresa Torres) + JTBD + OKR-driven Roadmap",
+  "inputs": {
+    "product_context": "string",
+    "okrs": "array",
+    "opportunities": "array",
+    "constraints": "object"
+  },
+  "output_format": "markdown",
+  "estimated_runtime_minutes": 5,
+  "dependencies": []
+}
