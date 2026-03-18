@@ -1,0 +1,16 @@
+{
+  "name": "PM Validation Agent",
+  "version": "1.0.0",
+  "author": "Seu Nome",
+  "description": "Structures hypothesis test design for product validation using the Lean Testing + Experimentation Framework. Agnostic to product type, market, or audience.",
+  "tags": ["validation", "lean-testing", "experimentation", "hypothesis", "product-management"],
+  "framework": "Lean Testing + Experimentation Framework",
+  "inputs": {
+    "hypothesis": "string",
+    "target_audience": "string",
+    "constraints": "object"
+  },
+  "output_format": "markdown",
+  "estimated_runtime_minutes": 4,
+  "dependencies": []
+}
