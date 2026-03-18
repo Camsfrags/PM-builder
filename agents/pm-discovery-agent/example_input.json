@@ -1,0 +1,10 @@
+{
+  "product_description": "Mobile app for financial management targeting Brazilian freelancers with MEI (Microempreendedor Individual) legal status — focused on expense tracking, invoice generation, and DAS (monthly tax payment) reconciliation",
+  "target_audience": "Brazilian freelancers aged 25-40 (designers, developers, copywriters, consultants) with MEI registration, earning 30k-150k BRL/year, managing finances via spreadsheets or no tool, with low accounting knowledge",
+  "research_goal": "Why do Brazilian MEI freelancers abandon financial management tools within the first 30 days, and what jobs are currently unmet by existing solutions?",
+  "available_resources": {
+    "time": "1 week",
+    "tools": "Google Scholar, Reddit (r/brasil, r/financas), App Store/Play Store reviews, G2, SimilarWeb, Receita Federal public data",
+    "existing_data": "47 support tickets from beta users citing 'too complicated', NPS of 28 from 120 responses, 3 churned user interviews mentioning 'doesnt understand my type of work'"
+  }
+}
