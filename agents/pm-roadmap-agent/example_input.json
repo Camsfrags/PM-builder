@@ -1,0 +1,46 @@
+{
+  "product_context": "Mobile app for financial management for Brazilian MEI freelancers. Currently in growth stage with 1,200 active users, 23% 30-day retention, NPS of 28. Main competitors: Conta Azul MEI, Mobills. Team: 2 backend devs, 1 frontend dev, 1 designer, 1 PM.",
+  "okrs": [
+    {
+      "objective": "Become the go-to financial tool for Brazilian MEI freelancers",
+      "key_results": [
+        "Increase 30-day retention from 23% to 50% by end of Q2 2026",
+        "Increase weekly active users from 340 to 800 by end of Q2 2026",
+        "Reduce support tickets related to DAS confusion by 60%"
+      ]
+    }
+  ],
+  "opportunities": [
+    {
+      "title": "DAS transparency gap",
+      "user_job": "When the 20th arrives, I want to know exactly what I owe, so I can pay without hiring an accountant",
+      "evidence": "34% of support tickets, 340-upvote Reddit thread, 8 NPS verbatims"
+    },
+    {
+      "title": "Day 1 onboarding confusion",
+      "user_job": "When I first open the app, I want to understand what to do immediately, so I dont waste time figuring it out",
+      "evidence": "47 support tickets citing too complicated, 3 churned user interviews, Day 1 drop-off rate of 68%"
+    },
+    {
+      "title": "Project-based income model mismatch",
+      "user_job": "When a client pays in installments, I want my cash flow to update automatically, so I can plan without doing math",
+      "evidence": "23 support tickets, 3 churned interviews confirming as primary abandonment trigger"
+    },
+    {
+      "title": "MEI revenue ceiling alert",
+      "user_job": "When I approach my annual revenue limit, I want to be warned in plain language, so I can make informed decisions before it is too late",
+      "evidence": "Sebrae 2023: 28% of MEIs exceed limit unknowingly, zero competitors address this"
+    },
+    {
+      "title": "Freelancer pricing calculator",
+      "user_job": "When a client asks my price, I want to calculate my real cost including taxes, so I can quote confidently",
+      "evidence": "22k monthly searches for como precificar freelancer, zero competitors in MEI context"
+    }
+  ],
+  "constraints": {
+    "team_size": "2 backend devs, 1 frontend dev, 1 designer, 1 PM",
+    "timeline": "Q2 2026 (April to June)",
+    "current_stage": "growth",
+    "capacity_note": "Each dev can deliver approximately 2 medium features per quarter"
+  }
+}
