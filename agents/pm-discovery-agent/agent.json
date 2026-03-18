@@ -1,0 +1,17 @@
+{
+  "name": "PM Discovery Agent",
+  "version": "1.0.0",
+  "author": "Seu Nome",
+  "description": "Structures discovery and desk research using Continuous Discovery Habits (Teresa Torres), JTBD, and Opportunity Mapping. Builds an Opportunity Solution Tree, maps real user jobs, identifies market gaps, and generates actionable insights before development starts. Agnostic to product type, market, or audience.",
+  "tags": ["discovery", "continuous-discovery", "teresa-torres", "jtbd", "opportunity-solution-tree", "desk-research", "opportunity-mapping", "product-management"],
+  "framework": "Continuous Discovery Habits (Teresa Torres) + JTBD + Secondary Research + Opportunity Mapping",
+  "inputs": {
+    "product_description": "string",
+    "target_audience": "string",
+    "research_goal": "string",
+    "available_resources": "object"
+  },
+  "output_format": "markdown",
+  "estimated_runtime_minutes": 5,
+  "dependencies": []
+}
