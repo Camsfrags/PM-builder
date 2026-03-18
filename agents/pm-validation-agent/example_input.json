@@ -1,0 +1,9 @@
+{
+  "hypothesis": "We believe that Brazilian freelancers earning 30k-100k BRL/year will pay for an expense tracking app because manual categorization in spreadsheets takes more than 15 minutes per week and causes stress at tax season",
+  "target_audience": "Brazilian freelancers (designers, developers, consultants) aged 25-40, earning 30k-100k BRL/year, currently using spreadsheets or no tool for financial tracking, with MEI or ME legal status",
+  "constraints": {
+    "timeline": "2 weeks",
+    "budget": "R$ 300 (no paid ads, no incentives)",
+    "resources": "1 PM, 1 designer (part-time, 5h available), access to a community of 200 freelancers on Slack"
+  }
+}
